@@ -4,7 +4,6 @@
   <asx:values>
    <HEADER>
     <BSET>ZABAPGIT_UNIT_TEST_SET</BSET>
-    <VERSION>A</VERSION>
    </HEADER>
    <NAME32>BF set</NAME32>
   </asx:values>
